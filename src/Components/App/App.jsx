@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './App.css';
 
 // Composants
 import Eleve from '../Eleves/Eleve'
